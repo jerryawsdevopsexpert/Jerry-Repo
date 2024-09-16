@@ -1,1 +1,2 @@
 i am learning git
+This is week 2 of learning git
